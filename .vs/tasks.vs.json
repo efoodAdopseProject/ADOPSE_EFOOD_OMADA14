@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-ADOPSE_EFOOD_OMADA14",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Test folder",
+      "appliesTo": "Test folder/",
+      "type": "launch"
+    }
+  ]
+}
